@@ -110,7 +110,7 @@
 
 <script>
     // ⚠️ 請將下方字串替換為你在 Google Apps Script 部署獲得的 Web 應用程式 URL
-    const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzaEVWujOCnx9hys24L15-ILLWzRcmT_YMKb2Eh-APAmKLMY-WWV0KNqRkoT8DzG4RZ7A/exec";
+    const GAS_WEB_APP_URL = "https://script.google.com/macros/library/d/1-K9OpcarS_UYEg9MjT_T6BHEPi7taFoj0tmhb4IxKvWzw0PbekPOTMaw/1";
 
     let questions = [];
 
